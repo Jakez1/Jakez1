@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jakez1
+- 👀 I’m interested in programming and developing softwares.
+- 🌱 I’m currently learning software engineering.
+- 💞️ I’m looking to collaborate on nil.
